@@ -1,0 +1,17 @@
+1
+# be_id be_name srv_id srv_name srv_addr srv_op_state srv_admin_state srv_uweight srv_iweight srv_time_since_last_change srv_check_status srv_check_result srv_check_health srv_check_state srv_agent_state bk_f_forced_id srv_f_forced_id srv_fqdn srv_port srvrecord srv_use_ssl srv_check_port srv_check_addr srv_agent_addr srv_agent_port
+3 test_85 1 127.0.0.6 127.0.0.77 2 0 1 1 714387 1 0 2 0 0 0 0 - 80 - 0 0 - - 0
+4 backend_87 1 127.0.0.9 127.0.0.1 0 4 1 1 690727 8 2 0 6 0 0 0 - 443 - 0 0 - - 0
+4 backend_87 2 127.0.0.210 127.0.0.2 0 1 1 1 714387 8 2 0 14 0 0 0 - 443 - 0 0 - - 0
+4 backend_87 3 127.0.0.3 127.0.0.3 0 0 1 1 714387 8 2 0 6 0 0 0 - 4443 - 0 0 - - 0
+5 backend_88 1 127.0.0.19 127.0.0.1 0 0 1 1 714387 8 2 0 6 0 0 0 - 443 - 0 0 - - 0
+5 backend_88 2 127.0.0.20 127.0.0.2 0 0 1 1 714386 8 2 0 6 0 0 0 - 443 - 0 0 - - 0
+6 backend_89 1 127.0.0.191 127.0.0.1 0 0 1 1 714386 8 2 0 6 0 0 0 - 443 - 0 0 - - 0
+6 backend_89 2 127.0.0.201 127.0.0.2 0 0 1 1 714386 8 2 0 6 0 0 0 - 443 - 0 0 - - 0
+6 backend_89 3 127.0.0.111 127.0.0.1 0 0 1 1 714386 8 2 0 6 0 0 0 - 443 - 0 0 - - 0
+6 backend_89 4 127.0.0.221 127.0.0.2 0 0 1 1 714386 8 2 0 6 0 0 0 - 443 - 0 0 - - 0
+11 test_91 1 127.0.0.1 127.0.0.1 2 0 1 1 714387 6 3 4 6 0 0 0 - 8085 - 0 0 - - 0
+12 test_92 1 127.0.0.1 127.0.0.1 0 0 1 1 714386 8 2 0 6 0 0 0 - 898 - 0 0 - - 0
+12 test_92 2 127.0.0.2 127.0.0.2 0 0 1 1 714385 8 2 0 6 0 0 0 - 500 - 0 0 - - 0
+13 waf 1 waf 127.0.0.1 2 0 1 1 714387 6 3 4 6 0 0 0 - 12345 - 0 0 - - 0
+
